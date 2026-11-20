@@ -1,0 +1,8 @@
+
+name = "streem"
+main = "worker.js"
+compatibility_date = "2026-11-20"
+
+[[kv_namespaces]]
+binding = "STREAM_TICKETS"
+id = "e844ad49980d4c4395341c4f80f18031"
